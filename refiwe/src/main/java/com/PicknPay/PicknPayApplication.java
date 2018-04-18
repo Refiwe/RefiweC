@@ -7,7 +7,7 @@ import org.springframework.context.annotation.ComponentScan;
 @SpringBootApplication
 @ComponentScan(basePackages={"com.PicknPay","com.PicknPay.model","com.PicknPay.services","com.PicknPay.controller","com.PicknPay.repositories"})
 public class PicknPayApplication {
-//???????????????
+//??????????????? another oneSSSSSSSSSSSSSSSSSS
 	public static void main(String[] args) {
 		SpringApplication.run(PicknPayApplication.class, args);
 	}
